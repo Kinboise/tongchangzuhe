@@ -8,9 +8,11 @@
 
 ## 使用方法
 
-- 在 `通长组合器.exe` 程序相同文件夹下，新建 `images` 文件夹，所有图块均放入此 `images` 文件夹；
-- 在 `通长组合器.exe` 程序相同文件夹下，新建 `stations.txt`，写入各线路车站信息；
-- 双击运行 `通长组合器.exe`，组合好的图片会生成在 `output` 文件夹内。
+Windows 系统可下载 Releases 中的 `tongchangzuhe.exe` 直接使用；其他系统请从源码自行编译。
+
+- 在 `tongchangzuhe.exe` 程序相同文件夹下，新建 `images` 文件夹，所有图块均放入此 `images` 文件夹；
+- 在 `tongchangzuhe.exe` 程序相同文件夹下，新建 `stations.txt`，写入各线路车站信息；
+- 双击运行 `tongchangzuhe.exe`，组合好的图片会生成在 `output` 文件夹内。
 
 ### `stations.txt` 规则
 
