@@ -2,9 +2,9 @@
 
 与[商弦矿铁通长生成器](https://k.guc1010.top/Sig/tongchang)联用，生成符合[商弦](https://guc1010.top)标准的整张通长图片。生成效果如图：
 
-![dh1+00+](D:\git\tongchangzuhe\README.assets\dh1+00+#.png)
+![dh1+00+](./README.assets/dh1+00+#.png)
 
-![sh3+03-](D:\git\tongchangzuhe\README.assets\sh3+03-.png)
+![sh3+03-](./README.assets/README.assets\sh3+03-.png)
 
 ## 使用方法
 
